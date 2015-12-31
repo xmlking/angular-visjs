@@ -1,0 +1,28 @@
+{
+  "name": "angular-visjs",
+  "version": "4.0.3",
+  "description": "AngularJS directives for the VisJS visualisation library",
+  "main": "angular-vis.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmlking/angular-visjs.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "VisJS",
+    "JavaScript"
+  ],
+  "author": "Chris Jackson <chris@cd-jackson.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xmlking/angular-visjs/issues"
+  },
+  "homepage": "https://github.com/xmlking/angular-visjs#readme",
+  "dependencies": {
+    "angular": "~1.4.8",
+    "vis": "^4.11.0"
+  }
+}
